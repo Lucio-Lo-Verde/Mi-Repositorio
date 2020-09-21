@@ -8,7 +8,7 @@ public class TesterLista {
 
 	public static void main(String[] args) {
 		PositionList<String> lista= new ListaSimplementeEnlazada<String>();
-		lista.addFirst("Hola Mundo!");
+		lista.addFirst("Lucio");
 	
 			try {
 				Position<String> pos= lista.first();
