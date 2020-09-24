@@ -4,7 +4,7 @@ import java.util.Iterator;
 
 import Excepciones.*;
 
-public class TestTDP {
+public class Main {
 	
 	private static Graph<Integer,Integer> grafo;
 	private static Vertex<Integer> origen;
