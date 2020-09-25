@@ -5,7 +5,7 @@ public class prueba{
 	private String nombre;
 
 	public prueba(){
-		nombre = "Lucio";
+		nombre = "Jacinto";
 		entero = 0;
 		caracter = 'c';
 	}
